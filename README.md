@@ -80,7 +80,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [:heavy_check_mark:] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [:heavy_check_mark:] 3-4: _HTML Semântico_
-- [:heavy_check_mark:] 3-5: _[Projeto - HTML & CSS]()_
+- [:heavy_check_mark:] 3-5: _[Projeto - HTML & CSS](https://github.com/Duskimm/sd-016-b-project-lessons-learned)_
 
 ##### Bloco 4: Introdução - JavaScript
 
