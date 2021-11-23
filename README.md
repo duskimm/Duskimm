@@ -99,7 +99,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 5-5: _[Projeto - Arte com Pixels](https://github.com/Duskimm/sd-016-b-project-pixels-art)_
 - [:heavy_check_mark:] 5-6: _[Projeto - To Do List](https://github.com/Duskimm/sd-016-b-project-todo-list)_
  
-- [:heavy_check_mark:] 5-7: _[Projeto Bonus- Meme Generator](https://github.com/Duskimm/sd-016-b-project-meme-generator)_
+- [ ] 5-7: _[Projeto Bonus- Meme Generator](https://github.com/Duskimm/sd-016-b-project-meme-generator)_
 
 ##### Bloco 6: HTML & CSS avançado
 
@@ -108,14 +108,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 6-3: _CSS Flexbox - Part 1_
 - [:heavy_check_mark:] 6-4: _CSS Flexbox - Part 2_
 - [:heavy_check_mark:] 6-5: _CSS Responsivo - Mobile First_
-- [:heavy_check_mark:] 6-6: _[Projeto - Página inicial do Facebook]()_
+- [:heavy_check_mark:] 6-6: _[Projeto - Trybewarts](https://github.com/Duskimm/sd-016-b-project-trybewarts)_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
 - [:heavy_check_mark:] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [:heavy_check_mark:] 7-2: _JavaScript ES6 - Objects_
 - [:heavy_check_mark:] 7-3: _Testes unitários em JavaScript_
-- [:heavy_check_mark:] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [:heavy_check_mark:] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/Duskimm/sd-016-b-project-js-unit-tests)_
 
 ##### Bloco 8: JavaScript ES6
 
@@ -123,13 +123,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [:heavy_check_mark:] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [:heavy_check_mark:] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [:heavy_check_mark:] 8-5: _[Projeto - Zoo functions]()_
+- [:heavy_check_mark:] 8-5: _[Projeto - Zoo functions](https://github.com/Duskimm/sd-016-b-project-zoo-functions)_
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
 - [:heavy_check_mark:] 9-1: _JavaScript Assíncrono e Callbacks_
 - [:heavy_check_mark:] 9-2: _JavaScript Promises_
-- [:heavy_check_mark:] 9-3: _[Projeto - Carrinho de Compras]()_
+- [:heavy_check_mark:] 9-3: _[Projeto - Carrinho de Compras](https://github.com/Duskimm/sd-016-b-project-shopping-cart)_
 
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
@@ -138,25 +138,25 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [:heavy_check_mark:] 10-1: _'Hello, world!' no React!_
 - [:heavy_check_mark:] 10-2: _Componentes React_
-- [:heavy_check_mark:] 10-3: _[Projeto - Solar System]()_
+- [:heavy_check_mark:] 10-3: _[Projeto - Solar System](https://github.com/Duskimm/sd-016-b-project-solar-system)_
 
 ##### Bloco 11: React
 
 - [:heavy_check_mark:] 11-1: _Components com estado_
 - [:heavy_check_mark:] 11-2: _Eventos e formulários no React_
-- [:heavy_check_mark:] 11-3: _[Projeto - Super Tryunfo]()_
+- [:heavy_check_mark:] 11-3: _[Projeto - Super Tryunfo](https://github.com/Duskimm/sd-016-b-project-tryunfo)_
 
 ##### Bloco 12: React
 
 - [:heavy_check_mark:] 12-1: _Melhorando o reuso de componentes: props.children e PropTypes_
 - [:heavy_check_mark:] 12-2: _Ciclo de vida de componentes em React_
 - [:heavy_check_mark:] 12-3: _React Router_
-- [:heavy_check_mark:] 12-4: _[Projeto - TrybeTunes]()_
+- [:heavy_check_mark:] 12-4: _[Projeto - TrybeTunes](https://github.com/Duskimm/sd-016-b-project-trybetunes)_
 
 ##### Bloco 13: Metodologias Ágeis
 
 - [:heavy_check_mark:] 13-1: _Metodologias Ágeis_
-- [:heavy_check_mark:] 13-2: _[Projeto em grupo - Frontend Online Store]()_
+- [:heavy_check_mark:] 13-2: _[Projeto em grupo - Frontend Online Store](https://github.com/Duskimm/sd-016-b-project-frontend-online-store)_
 
 ##### Bloco 14: Testes em React
 
