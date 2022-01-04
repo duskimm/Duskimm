@@ -162,7 +162,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [:heavy_check_mark:] 14-1: _Testando React com a React Testing Library_
 - [:heavy_check_mark:] 14-2: _Testando React com a React Testing Library - Parte 2_
-- [:heavy_check_mark:] 14-3: _[Projeto - Testes em React]()_
+- [:heavy_check_mark:] 14-3: _[Projeto - Testes em React](https://github.com/tryber/sd-016-b-project-react-testing-library)_
 
 ##### Bloco 15: Introdução ao Redux
 
