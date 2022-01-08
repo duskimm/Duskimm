@@ -30,9 +30,9 @@
  
   <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
- <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<!--  <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 
- <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<!--  <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> -->
 <!--   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
 </div>
  
