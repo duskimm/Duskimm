@@ -166,20 +166,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [:heavy_check_mark:] 14-1: _Testando React com a React Testing Library_
 - [:heavy_check_mark:] 14-2: _Testando React com a React Testing Library - Parte 2_
-- [:heavy_check_mark:] 14-3: _[Projeto - Testes em React](https://github.com/tryber/sd-016-b-project-react-testing-library)_
+- [:heavy_check_mark:] 14-3: _[Projeto - Testes em React](https://github.com/Duskimm/sd-016-b-project-react-testing-library)_
 
 ##### Bloco 15: Introdução ao Redux
 
-- [ ] 15-1: _Introdução ao Redux_
-- [ ] 15-2: _React com Redux - Parte 1_
-- [ ] 15-3: _React com Redux - Prática_
-- [ ] 15-4: _React com Redux - Parte 2_
-- [ ] 15-5: _Testes síncronos com React-Redux_
-- [ ] 15-6: _[Projeto - Tabela com filtros de dados]()_
+- [:heavy_check_mark:] 15-1: _Introdução ao Redux_
+- [:heavy_check_mark:] 15-2: _React com Redux - Parte 1_
+- [:heavy_check_mark:] 15-3: _React com Redux - Prática_
+- [:heavy_check_mark:] 15-4: _React com Redux - Parte 2_
+- [:heavy_check_mark:] 15-5: _Testes síncronos com React-Redux_
+- [:heavy_check_mark:] 15-6: _[Projeto - TrybeWallet](https://github.com/Duskimm/sd-016-b-project-trybewallet)_
 
 ##### Bloco 16: Projeto React
 
-- [ ] 16-1: _[Projeto - Jogo de Trivia]()_
+- [:heavy_check_mark:] 16-1: _[Projeto - Jogo de Trivia](https://github.com/Duskimm/sd-016-b-project-trivia-react-redux)_
 
 ##### Bloco 17: React & Context API
 
