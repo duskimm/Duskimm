@@ -183,29 +183,29 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 17: React & Context API
 
-- [ ] 17-1: _Context API do React_
-- [ ] 17-2: _React Hooks - useState e useContext_
-- [ ] 17-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [:heavy_check_mark:] 17-1: _Context API do React_
+- [:heavy_check_mark:] 17-2: _React Hooks - useState e useContext_
+- [:heavy_check_mark:] 17-3: _React Hooks - useEffect e Hooks customizados_
+- [:heavy_check_mark:] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/Duskimm/sd-016-b-project-starwars-planets-search)_
 
 ##### Bloco 18: Projeto Final de Front-end
 
-- [ ] 18-1: _[Projeto - App de Receitas]()_
+- [:heavy_check_mark:] 18-1: _[Projeto - App de Receitas](https://github.com/Duskimm/sd-016-b-project-recipes-app)_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [:heavy_check_mark:] 20-1: _Banco de dados SQL_
+- [:heavy_check_mark:] 20-2: _Encontrando dados em um banco de dados_
+- [:heavy_check_mark:] 20-3: _Filtrando dados de forma específica_
+- [:heavy_check_mark:] 20-4: _Manipulando tabelas_
+- [:heavy_check_mark:] 20-5: _[Projeto - All For One](https://github.com/Duskimm/sd-016-b-mysql-all-for-one)_
 
 ##### Bloco 21: Bancos de dados relacionais
 
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
+- [:heavy_check_mark:] 21-1: _Funções mais usadas no SQL_
+- [:heavy_check_mark:] 21-2: _Descomplicando JOINs e UNIONs_
 - [ ] 21-3: _Stored Routines & Subqueries_
 - [ ] 21-4: _[Projeto - Vocabulary Booster]()_
 
@@ -327,13 +327,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Autoconheciment
 - [:heavy_check_mark:] História de vide
 
-- [  ] Compartilhamento da História de Vida
+- [:heavy_check_mark:] Compartilhamento da História de Vida
 
-- [  ] Temperamentos
+- [:heavy_check_mark:] Temperamentos
 
-- [  ] Projetando o futuro
+- [:heavy_check_mark:] Projetando o futuro
 
-- [  ] Valores
+- [:heavy_check_mark:] Valores
 
 - [  ] Talentos
 
