@@ -9,7 +9,7 @@
 </div>
  
 <div style="display: inline_block"><br>
- FUNDAMENTOS
+ FUNDAMENTOS<br>
 Unix
  <img align="center" alt="Unix" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
 Git
@@ -21,8 +21,8 @@ HTML
 CSS
  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 JavaScript S6
- <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-FRONT-END
+ <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
+FRONT-END<br>
 React
  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  Redux
