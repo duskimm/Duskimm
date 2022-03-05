@@ -54,10 +54,10 @@ FRONT-END<br>
 <!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
-<!--  
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-_Snake game generated with [Platane/snk](https://github.com/Platane/snk)  ( Thank you )_ -->
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg) -->
+
+<!-- _Snake game generated with [Platane/snk](https://github.com/Platane/snk)  ( Thank you )_ -->
  
  
  # Trybe
