@@ -324,8 +324,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [:heavy_check_mark:] Café de Coversa
 
-##### Autoconheciment
-- [:heavy_check_mark:] História de vide
+##### Autoconhecimento
+- [:heavy_check_mark:] História de vida
 
 - [:heavy_check_mark:] Compartilhamento da História de Vida
 
