@@ -106,7 +106,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:heavy_check_mark:] 5-5: _[Projeto - Arte com Pixels](https://github.com/Duskimm/sd-016-b-project-pixels-art)_
 - [:heavy_check_mark:] 5-6: _[Projeto - To Do List](https://github.com/Duskimm/sd-016-b-project-todo-list)_
  
-- [ ] 5-7: _[Projeto Bonus- Meme Generator](https://github.com/Duskimm/sd-016-b-project-meme-generator)_
+- [:heavy_check_mark:] 5-7: _[Projeto Bonus- Meme Generator](https://github.com/Duskimm/sd-016-b-project-meme-generator)_
 
 ##### Bloco 6: HTML & CSS avançado
 
@@ -221,9 +221,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 23: Introdução - NoSQL
 
-- [ ] 23-1: _MongoDB - Introdução_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Projeto - Data Flights]()_
+- [:heavy_check_mark:] 23-1: _MongoDB - Introdução_
+- [:heavy_check_mark:] 23-2: _Filter Operators_
+- [:heavy_check_mark:] 23-3: _[Projeto - Data Flights]()_
 
 ##### Bloco 24: Updates
 
